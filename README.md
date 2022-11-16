@@ -1,4 +1,21 @@
-### Hi there 👋
+## Hi 👋 I'm Alicja!
+
+- 🔭 I’m currently working on my [currency converter](https://alajurczak.github.io/currency-converter/)
+- 🌱 I’m currently learning **JavaScript** on **Youcode course**
+- 📫 How to reach me: ala.jurczak@gmail.com
+
+## Tech I use:
+- HTML
+- CSS
+- JavaScript
+
+
+
+
+
+
+
+
 
 <!--
 **alajurczak/alajurczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
