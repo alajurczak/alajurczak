@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Alicja!
 
-- 🔭 I’m currently working on my [to do list](https://alajurczak.github.io/to-do-list/)
+- 🔭 I’m currently working on my [TO-DO list](https://alajurczak.github.io/to-do-list/)
 - 🌱 I’m currently learning **JavaScript** on **Youcode course**
 - 📫 How to reach me: ala.jurczak@gmail.com
 
