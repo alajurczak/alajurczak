@@ -8,6 +8,8 @@
 - HTML
 - CSS
 - JavaScript
+- React
+- Redux
 
 
 <!--
