@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Alicja!
 
-- 🔭 I’m currently working on my [personal homepage in React](https://alajurczak.github.io/personal-homepage-react/)
+- 🔭 I’m currently working on my [personal homepage in React](allmosthumann.github.io/movie-browser/)
 - 🌱 I’m currently learning **JavaScript** on **Youcode course**
 - 📫 How to reach me: ala.jurczak@gmail.com
 
