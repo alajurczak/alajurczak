@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Alicja!
 
-- 🔭 I’m currently working on [movie browser](https://allmosthumann.github.io/movie-browser/) which is a group project.
+- 🔭 I’m currently working on [rock-paper-scissors game](https://alajurczak.github.io/rock-paper-scissors-react/).
 - 🌱 I’m currently learning **TypeScript** on **Youcode course**
 - 📫 How to reach me: ala.jurczak@gmail.com
 
